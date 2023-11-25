@@ -1,0 +1,9 @@
+[submodule "purffectgames_owner"]
+	path = purffectgames_owner
+	url = https://github.com/SJanna/purffectgames_owner.git
+[submodule "purffectgames_client"]
+	path = purffectgames_client
+	url = https://github.com/SJanna/purffectgames_client.git
+[submodule "purffectgames_api"]
+	path = purffectgames_api
+	url = https://github.com/SJanna/purffectgames_api.git
