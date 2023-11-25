@@ -8,6 +8,10 @@ Welcome to Purffect Games, a comprehensive ecosystem designed to streamline the 
 
 3. [Purffect Games API](https://github.com/Sjanna/purffectgames_api): A Django-based API that handles client data, game information, and rental transactions.
 
+## ERD (Entity Relationship Diagram)
+
+<p align="center"><img src="https://github.com/SJanna/purffectgames/assets/70728090/b8772413-508a-4a69-b5b0-becface34f6b" alt="ERD" width="500"/></p>
+
 ## Mockups
 [Original Mockups](https://github.com/SJanna/purffectgames/blob/main/Mockups/PurffectGames.bmpr): I use Balsamiq wireframes to as tool to create this.
 
