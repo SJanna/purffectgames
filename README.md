@@ -8,13 +8,12 @@ Welcome to Purffect Games, a comprehensive ecosystem designed to streamline the 
 
 3. [Purffect Games API](https://github.com/Sjanna/purffectgames_api): A Django-based API that handles client data, game information, and rental transactions.
 
-## Screenshots (Mockups)
+## Mockups
+[Original Mockups](https://github.com/SJanna/purffectgames/blob/main/Mockups/PurffectGames.bmpr): I use Balsamiq wireframes to as tool to create this.
 
-### Purffect Games Owner
-<!-- ![Owner](./mockups/owner.png) -->
+[Mockups PDF](https://github.com/SJanna/purffectgames/blob/main/Mockups/PurffectGamesMokups.pdf): PDF version of Mockups.
 
-### Purffect Games Client
-<!-- ![Client](./mockups/client.png) -->
+[Mouckups by Hierarchy](https://github.com/SJanna/purffectgames/blob/main/Mockups/MokupsComponentsbyHierarchy.pdf): Following the [recommendations of React](https://react.dev/learn/thinking-in-react), I separated the elements of the mockups into components. 
 
 ## How to Use the Project
 
